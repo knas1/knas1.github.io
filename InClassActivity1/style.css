@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    margin: 20px auto;
+}
+table, th, td {
+    border: 1px solid;
+}
+th, td {
+    padding: 10px;
+}
+.box {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid;
+}
+button.shorten-btn {
+    background-color: blue;
+    color: white;
+}
