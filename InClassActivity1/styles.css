@@ -9,11 +9,18 @@ table, th, td {
 th, td {
     padding: 10px;
 }
-.box {
+.small-box {
     width: 300px;
     margin: 0 auto;
     text-align: center;
     padding: 20px;
+    border: 1px solid;
+}
+.large-box {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
     border: 1px solid;
 }
 button.shorten-btn {
