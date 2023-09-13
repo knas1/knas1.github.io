@@ -11,7 +11,7 @@ th, td {
     padding: 10px;
 }
 .box {
-    width: 300px;
+    width: 100%;
     margin: 0 auto;
     text-align: center;
     padding: 20px;
