@@ -9,21 +9,27 @@ table, th, td {
 th, td {
     padding: 10px;
 }
-.small-box {
+.box {
     width: 300px;
     margin: 0 auto;
     text-align: center;
     padding: 20px;
     border: 1px solid;
 }
-.large-box {
-    width: 500px;
-    margin: 0 auto;
-    text-align: center;
-    padding: 30px;
-    border: 1px solid;
-}
 button.shorten-btn {
     background-color: blue;
     color: white;
+}
+nav {
+    border: 1px solid #000;
+    display: inline-block;
+    padding: 5px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav li {
+    display: inline;
+    margin-right: 10px;
 }
