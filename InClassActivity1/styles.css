@@ -2,6 +2,7 @@ table {
     border-collapse: collapse;
     border: 1px solid #ccc;
     margin: 20px auto;
+    width: 100%; 
 }
 table, th, td {
     border: 1px solid;
