@@ -1,0 +1,30 @@
+.container {
+    text-align: center;
+    margin-top: auto;
+}
+
+.search-container {
+    margin: 10px;
+}
+
+#searchInput {
+    padding: 5px;
+    width: 300px;
+    text-align: center;
+}
+
+#standingsTable {
+    margin: auto;
+}
+
+#standingsTable th {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
+
+
+
+

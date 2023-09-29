@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Saudi League Standings</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>League Standings</h1>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search by Team Name">
+            <label for="championshipCheckbox">Show Only Championship Winners</label>
+            <input type="checkbox" id="championshipCheckbox">
+        </div>
+
+        <table id="standingsTable">
+            <thead>
+                <tr>
+                    <th>Team</th>
+                    <th>Wins</th>
+                    <th>Losses</th>
+                    <th>Total Championships</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Al-Hilal</td>
+                    <td>15</td>
+                    <td>5</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>Al-Nassr</td>
+                    <td>17</td>
+                    <td>3</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>Al-Ittihad</td>
+                    <td>14</td>
+                    <td>6</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>Al-Ahli</td>
+                    <td>12</td>
+                    <td>8</td>
+                    <td>0</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
