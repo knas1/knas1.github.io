@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+form{
+    width: 50%;
+    margin: 0 auto;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+
+input,select,textarea{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #a8ceed;
+    border-radius: 7px;
+}
+select{
+    width: 103%;
+}
+input[type="submit"]{
+    background-color: #052239;
+    cursor: pointer;
+    color: #fff;
+}
