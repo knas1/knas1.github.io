@@ -1,0 +1,17 @@
+body {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  #likesCount {
+    display: inline;
+    padding: 0% 5%;
+    font-size: 40px;
+  }
+  
+  button {
+    padding: 1% 2%;
+    font-size: 40px;
+  }
+  
