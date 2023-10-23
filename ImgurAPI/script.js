@@ -1,5 +1,4 @@
-//const clientId = "ca6139e49c5bf36";
-const clientId = "712645836bdd60b";
+const clientId = "812b75938e1c7d9";
 var defaultAlbumId = 'Jfni3';
 
 function requestAlbum() {
