@@ -5,8 +5,8 @@ const btnFetchAsyncAwait = document.getElementById('fetchAsyncAwait')
 let searchQueryElem = document.getElementById('query')
 let searchResults = document.getElementById('SearchResults')
 
-const API_URL = 'https://api.unsplash.com/search/photos'; // Update with Unsplash API URL
-const ACCESS_KEY = 'YOUR_ACCESS_KEY'; // Replace with your Unsplash API access key
+const API_URL = 'https://api.unsplash.com/search/photos'; 
+const ACCESS_KEY = 'YI3-JYONMu_5dvBTLQ4mliSvklZdcmcDHnY5VqxC_Gw';
 
 btnXHR.addEventListener('click', function () {
     searchResults.innerHTML = '';
