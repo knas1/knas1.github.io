@@ -6,5 +6,5 @@ Home Page:
 ![Home Page:](screenshots/screenshot1.png)
 
 Database:
-![Database:](screenshots/screenshot2.png)
+![Database:](screenshots/screenshot3.png)
 
